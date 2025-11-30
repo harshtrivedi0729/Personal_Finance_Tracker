@@ -83,7 +83,7 @@ npm run dev
 cd ../server
 npm install
 npm start
-
+```
 📜 License
 
 This project is open-source and free to use.
