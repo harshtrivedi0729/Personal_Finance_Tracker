@@ -68,10 +68,10 @@ Personal_Finance_Tracker/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-
+```sh
 git clone https://github.com/harshtrivedi0729/Personal_Finance_Tracker.git
 cd Personal_Finance_Tracker
-
+```
 
 
 2️⃣ Install Client Dependencies
